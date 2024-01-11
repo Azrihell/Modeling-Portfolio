@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import azlogo from '../assets/azlogo.png'
 import menu from '../assets/menu.svg'
+import close from '../assets/close.svg'
 import { navLinks } from '../constants'
 import { styles } from '../styles/styles'
 
